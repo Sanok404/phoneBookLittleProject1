@@ -1,0 +1,31 @@
+[ {
+  "firstName" : "Dimon",
+  "lastName" : "Antsyfer",
+  "phoneNumbers" : [ "2222" ],
+  "address" : "Tallin",
+  "date" : "2022/04/23 21:57:14"
+}, {
+  "firstName" : "Karyna",
+  "lastName" : "Prykhodko",
+  "phoneNumbers" : [ "99999999999", "88888888888" ],
+  "address" : "Kyiv",
+  "date" : "2022/04/23 15:09:29"
+}, {
+  "firstName" : "Sasha",
+  "lastName" : "Prykhodko",
+  "phoneNumbers" : [ "000000000000000000" ],
+  "address" : "Kyiv",
+  "date" : "2022/04/23 15:10:13"
+}, {
+  "firstName" : "Veronica",
+  "lastName" : "Prykhodko",
+  "phoneNumbers" : [ "333333333333" ],
+  "address" : "Kyiv",
+  "date" : "2022/04/23 15:10:50"
+}, {
+  "firstName" : "Dimon Pokemon",
+  "lastName" : "Hurovskiy",
+  "phoneNumbers" : [ "666666666" ],
+  "address" : "Nivki city",
+  "date" : "2022/04/23 21:59:38"
+} ]
